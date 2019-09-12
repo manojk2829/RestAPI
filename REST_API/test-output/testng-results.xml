@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3797" started-at="2019-09-12T02:12:01Z" finished-at="2019-09-12T02:12:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3797" started-at="2019-09-12T02:12:01Z" finished-at="2019-09-12T02:12:05Z">
+      <class name="rest.REST_API.GetRest_Assured">
+        <test-method status="PASS" signature="getRestCall()[pri:1, instance:rest.REST_API.GetRest_Assured@2e4b8173]" name="getRestCall" duration-ms="2668" started-at="2019-09-12T07:42:01Z" finished-at="2019-09-12T07:42:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getRestCall -->
+        <test-method status="PASS" signature="getRestCall_()[pri:2, instance:rest.REST_API.GetRest_Assured@2e4b8173]" name="getRestCall_" duration-ms="1109" started-at="2019-09-12T07:42:04Z" finished-at="2019-09-12T07:42:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getRestCall_ -->
+      </class> <!-- rest.REST_API.GetRest_Assured -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
